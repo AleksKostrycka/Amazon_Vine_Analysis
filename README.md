@@ -17,3 +17,8 @@ Below are the results of the analysis performed:
 ![This is an image](https://github.com/AleksKostrycka/Amazon_Vine_Analysis/blob/main/Resources/percentage%20of%20paid%205%20star%20review.png?raw=true)
 * Percentage of non-Vine reviews with 5 stars
 ![This is an image](https://github.com/AleksKostrycka/Amazon_Vine_Analysis/blob/main/Resources/percentage%20of%20unpaid%205%20star%20reviews.png?raw=true)
+
+## Summary
+
+The results above represent a bias toward paid 5 star reviews. 51% of the reviews in the Vine program were 5 stars. 39% of the non-Vine reviews were 5 stars. This describes a positivity bias for reviews in the Vine program.
+Additionally we could analyze the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews to further determine the structure and insight that the data represents
